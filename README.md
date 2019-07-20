@@ -1,2 +1,10 @@
 # kkgraph.github.io
-my personal github pages website
+
+My portoflio website. 
+
+# Built With
+ [ ] Bootstrap
+ [ ] HTML5
+ [ ] jQuery
+ [ ] JavaScript
+ [ ] Custom CSS
