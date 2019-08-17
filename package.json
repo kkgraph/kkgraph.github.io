@@ -1,0 +1,34 @@
+{
+  "name": "kkgraph.github.io",
+  "version": "1.0.0",
+  "description": "portfolio of kim graff's web design and software development ",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^6.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkgraph/kkgraph.github.io.git"
+  },
+  "keywords": [
+    "portfolio",
+    "accessibility",
+    "web",
+    "developer",
+    "software",
+    "developer",
+    "a11y",
+    "accessibility",
+    "expert"
+  ],
+  "author": "kim graff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkgraph/kkgraph.github.io/issues"
+  },
+  "homepage": "https://github.com/kkgraph/kkgraph.github.io#readme"
+}
