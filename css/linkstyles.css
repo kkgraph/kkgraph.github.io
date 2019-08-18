@@ -5,7 +5,7 @@
 	position: relative;
 	font-size: 8em;
 	line-height: 1;
-	color: #9e9ba4;
+	color: #382E7EC9;
 	display: inline-block;
 }
 
@@ -19,7 +19,7 @@
 }
 
 .link--kukuri:hover {
-	color: #c5c2b8;
+	color: #382E7EF5;
 }
 
 .link--kukuri::after {
@@ -49,7 +49,7 @@
 	position: absolute;
 	z-index: 2;
 	overflow: hidden;
-	color: #424242;
+	color: #382E7EC9;
 	white-space: nowrap;
 	width: 0%;
 	-webkit-transition: width 0.4s 0.3s;
@@ -101,7 +101,7 @@
 	font-weight: 400;
 	position: absolute;
 	right: 15px;
-	color: #e53369;
+	color: #382E7EC9;
 	bottom: 0;
 	opacity: 0;
 	-webkit-transform: translate3d(-10px,-10px,0);

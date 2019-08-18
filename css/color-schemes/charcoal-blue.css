@@ -1,14 +1,14 @@
 ::selection {
   color: white;
-  background: #6f8b9d; /* WebKit/Blink Browsers */
+  background: #8d38c0; /* WebKit/Blink Browsers */
 }
 ::-moz-selection {
   color: white;
-  background: #6f8b9d; /* Gecko Browsers */
+  background: #8d38c0; /* Gecko Browsers */
 }
 
 .ip-header .ip-loader svg path.ip-loader-circle{
-  stroke: #6f8b9d;
+  stroke: #8d38c0;
 }
 
 .color-overlay {
@@ -16,54 +16,54 @@
 }
 
 a:hover {
-    color: #6f8b9d;
+    color: #8d38c0;
 }
 
 a:active {
-    color: #6f8b9d;
+    color: #8d38c0;
 }
 
 a:focus{
-  color: #6f8b9d;
+  color: #8d38c0;
 }
 
 
 .sticky-navigation{
 
-    /*border-bottom: solid 1px #6f8b9d ;*/
+    /*border-bottom: solid 1px #8d38c0 ;*/
 }
 
 .sticky-navigation .main-navigation .current a{
-    color: #6f8b9d;
+    color: #8d38c0;
 }
 
 .sticky-navigation .main-navigation li a:hover{
-  color: #6f8b9d;
+  color: #8d38c0;
   background: none;
 }
 
 .sticky-navigation .main-navigation li a:active{
-  color: #6f8b9d;
+  color: #8d38c0;
   background: none;
 }
 
 .sticky-navigation .main-navigation li a:focus{
-  color: #6f8b9d;
+  color: #8d38c0;
   background: none;
 }
 
 .navbar-toggle .icon-bar{
-  background-color: #6f8b9d;
+  background-color: #8d38c0;
 }
 
 
 .services .single-service .icon-container .icon{
 
-    color: #6f8b9d;
+    color: #8d38c0;
 }
 
 .featured-item .icon i{
-    color: #6f8b9d;
+    color: #8d38c0;
 }
 
 .work-process .itemz .inner-content > i{
@@ -71,15 +71,15 @@ a:focus{
 }
 
 .hvr-ripple-out:before{
-    border: #6f8b9d solid 1px;
+    border: #8d38c0 solid 1px;
 }
 
 .progress .bar {
-    background: #6f8b9d;
+    background: #8d38c0;
 }
 
  .pf-filter li.active{
-  color: #6f8b9d;
+  color: #8d38c0;
 }
 
 .masonry-grid-4 .portfolio-hover{
@@ -87,21 +87,21 @@ a:focus{
 }
 
 .portfolio-project-info li a:hover {
-    color: #6f8b9d;
+    color: #8d38c0;
 }
 
 .res-funfactor .icon-container i {
 
-    color: #6f8b9d;}
+    color: #8d38c0;}
 
 .testimonials .owl-theme .owl-controls .owl-page span {
-    background: #6f8b9d;
+    background: #8d38c0;
     border-radius: 20%;
     max-height: 2px;
 }
 
 .clients .owl-theme .owl-controls .owl-page span {
-    background: #6f8b9d;
+    background: #8d38c0;
     border-radius: 20%;
     max-height: 2px;
 }
@@ -113,39 +113,39 @@ a:focus{
 
 .team-hover .s-link a {
     text-align: center;
-    color: #6f8b9d;
+    color: #8d38c0;
 }
 
 .desk p {
-    color: #6f8b9d;
+    color: #8d38c0;
 }
 
 .team .owl-theme .owl-controls .owl-page span {
-    background: #6f8b9d;
+    background: #8d38c0;
 }
 
 .special-package{
-  color: #6f8b9d;
+  color: #8d38c0;
 }
 
 .special-package .price h2,
 .special-package .price h2 span,
 .special-package .price p
 {
-  color: #6f8b9d;
+  color: #8d38c0;
 }
 
 .special-package .hvr-bounce-to-right:before{
-  background: #6f8b9d;
+  background: #8d38c0;
 }
 
 .special-package .single-package{
-  border: 1px solid #6f8b9d;
+  border: 1px solid #8d38c0;
 }
 
 .special-package .btn-price{
-  color: #6f8b9d;
-  border-color: #6f8b9d;
+  color: #8d38c0;
+  border-color: #8d38c0;
 }
 
 .special-package .btn-price:hover{
@@ -157,58 +157,58 @@ a:focus{
 .btn-lines .line-bottom,
 .btn-lines .line-left,
 .btn-lines .line-right {
-  background: #6f8b9d;
+  background: #8d38c0;
 }
 
 .funfactor .icon-container i {
-    color: #6f8b9d;
+    color: #8d38c0;
 }
 
 .blog-title :hover{
-    color: #6f8b9d;
+    color: #8d38c0;
 }
 
 .blog-post-title :hover {
-    color: #6f8b9d;
+    color: #8d38c0;
 }
 
 .author a :hover {
-  color: #6f8b9d;
+  color: #8d38c0;
 
  }
 
  .read-more :hover{
-    color: #6f8b9d;
+    color: #8d38c0;
  }
 
 .blog-list-item-detail a:hover{
-  color: #6f8b9d;
+  color: #8d38c0;
 }
 
 .blog-item-detail a:hover{
-  color: #6f8b9d;
+  color: #8d38c0;
 }
 
 .input-field:active{
-  border: 1px solid  #6f8b9d;
+  border: 1px solid  #8d38c0;
   border-radius: 5px;
 }
 
 .input-field:focus {
-  border-color: #6f8b9d;
+  border-color: #8d38c0;
 }
 
 .clearlist li a:hover  {
-    color: #6f8b9d;
+    color: #8d38c0;
 }
 
 .tags a:hover {
-   color: #6f8b9d;
-  border: 1px solid #6f8b9d;
+   color: #8d38c0;
+  border: 1px solid #8d38c0;
 }
 
 .article-nav a i:hover{
-  color: #6f8b9d;
+  color: #8d38c0;
 }
 
 /**/
@@ -218,7 +218,7 @@ a:focus{
 }
 
 .standard-button2 {
-    background:  #6f8b9d;
+    background:  #8d38c0;
 }
 
 .standard-button2:hover {
@@ -235,19 +235,19 @@ a:focus{
 
 .colored-line,
 .colored-line-left {
-    background:  #6f8b9d;
+    background:  #8d38c0;
 }
 
 .main-color {
-    color:  #6f8b9d;
+    color:  #8d38c0;
 }
 
 .theme-color {
-    color:  #6f8b9d;
+    color:  #8d38c0;
 }
 
 .theme-color-bg {
-    background-color:  #6f8b9d;
+    background-color:  #8d38c0;
 }
 
 .color-bg {
@@ -261,31 +261,31 @@ a:focus{
 }
 
 .contact .contact-button:hover {
-    background:  #6f8b9d;
+    background:  #8d38c0;
 }
 
 .contact .contact-box .input-box:active,
 .contact .contact-box .textarea-box:active,
 .contact .contact-box .input-box:focus,
 .contact .contact-box .textarea-box:focus {
-    border: 1px solid  #6f8b9d;
+    border: 1px solid  #8d38c0;
     color: #111;
 }
 
 .social-icons li a:hover {
-    color:  #6f8b9d;
+    color:  #8d38c0;
 }
 
 .comment-reply .contact-box .input-box:active,
 .comment-reply .contact-box .textarea-box:active,
 .comment-reply .contact-box .input-box:focus,
 .comment-reply .contact-box .textarea-box:focus {
-    border: 1px solid  #6f8b9d;
+    border: 1px solid  #8d38c0;
     color: #111;
 }
 
 .contact  .contact-address i{
-  color: #6f8b9d;
+  color: #8d38c0;
 }
 
 .nav-transparent{
@@ -293,7 +293,7 @@ a:focus{
 }
 
 .list-tweets li a:hover{
-  color: #6f8b9d;
+  color: #8d38c0;
 }
 
 nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:hover,
@@ -313,7 +313,7 @@ nav.navbar .dropdown .megamenu-content .col-menu.on .title,
 nav.navbar ul.nav > li > a:hover,
 nav.navbar ul.nav li.active > a,
 nav.navbar li.dropdown ul.dropdown-menu > li a:hover{
-    color: #6f8b9d;
+    color: #8d38c0;
     background: rgba(0, 0, 0, 0.07);
 }
 
@@ -323,14 +323,14 @@ nav.navbar ul.nav li.scroll.active > a,
 nav.navbar.navbar-dark ul.nav li.dropdown ul.dropdown-menu  > li > a:hover,
 nav.navbar ul.nav li.dropdown.on > a,
 nav.navbar-dark ul.nav li.dropdown.on > a{
-    color: #6f8b9d !important;
+    color: #8d38c0 !important;
     background: rgba(0, 0, 0, 0.07);
 }
 
 @media(max-width:920px){
     nav.navbar .dropdown .megamenu-content .col-menu ul > li > a:hover,
     nav.navbar.navbar-dark .dropdown .megamenu-content .col-menu .title:hover{
-        color: #6f8b9d !important;
+        color: #8d38c0 !important;
         background: rgba(0, 0, 0, 0.07);
     }
 }
