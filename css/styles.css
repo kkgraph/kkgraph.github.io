@@ -1,9 +1,3 @@
- /*=======================================================================
-* Template Name: Xeon Minimal Template
-* Author: TheCreo
-* Version: 1.0
-* Design and Developed by: TheCreo Team
-======================================================================= */
 /*
 ====================================
 [ CSS TABLE CONTENT ]
@@ -328,7 +322,7 @@ p { color: #41454A;
   background: #fff;
 }
 .section-top{
-  padding-top: 90px;
+  padding-top: 0px;
 }
 .section-header {
     padding-bottom: 50px;
@@ -870,7 +864,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle:after{
   /*display: inline-block;
   vertical-align: middle;*/
   font-family: 'Poppins', cursive;
-  color: #f95231;
+  color: #9932CC;
   font-weight: 700;
   text-transform: capitalize;
   font-size: 37px;
@@ -933,8 +927,8 @@ header .only-logo .navbar .navbar-header {
 /*-- banner-bottom --*/
 .banner-bottom{
   padding-top: 130px;
-  padding-bottom:30px;
-  background:#ffffff;
+  /* padding-bottom:30px; */
+  background:#F1F8FF;
   /*height: 80vh;*/
 }
 
@@ -971,7 +965,7 @@ header .only-logo .navbar .navbar-header {
   font-family: 'Poppins', sans-serif;
   font-size:42px;
   font-weight: 700;
-  color:#f95231;
+  color:#9932CC;
   line-height: 1.8em;
   text-align: left;
   margin: 0;
@@ -1010,7 +1004,7 @@ header .only-logo .navbar .navbar-header {
   font-family: 'Poppins', sans-serif;
   font-size:35px;
   font-weight: 700;
-  color:#f95231;
+  color:#9932CC;
   
 }
 
@@ -1208,6 +1202,7 @@ header .only-logo .navbar .navbar-header {
 }
 
 .abt-me .col-md-6{
+  padding-top: 30px;
   padding-left: 0px;
   padding-right: 0px;
 }
@@ -1602,6 +1597,7 @@ header .only-logo .navbar .navbar-header {
 .about-us{
   text-align: left;
   font-size: 16px;
+  padding-top: 30px;
 }
 .about-descrp p{
   padding-bottom: 15px;
@@ -1624,7 +1620,7 @@ header .only-logo .navbar .navbar-header {
   font-weight: 400;
   font-size: 42px;
   text-align: left;
-  color: #f95231;
+  color: #9932CC;
   text-transform: none;
 }
 
@@ -2832,7 +2828,7 @@ GOOGLE MAP
   width: 10px;
   height: 10px;
   background: #fff;
-  border: 2px solid #f95231;
+  border: 2px solid #9932CC;
 
   -webkit-border-radius: 100%;
      -moz-border-radius: 100%;
@@ -2840,7 +2836,7 @@ GOOGLE MAP
 }
 
 .timeline .entry .time.on:before {
-  border: 2px solid #f95231;
+  border: 2px solid #9932CC;
   
 }
 
